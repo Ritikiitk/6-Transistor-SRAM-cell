@@ -1,7 +1,7 @@
 # 6-Transistor SRAM cell
 A 6T SRAM cell contains two cross-coupled CMOS inverters and two NMOS access transistors. 
 Once active, access transistors allow the cell's internal nodes to communicate with the cell's input/output ports. 
-The input/output ports of the cell unit of measurement are termed bit lines (BL and ~BL).
+The input/output ports of the cell unit of measurement are termed bit lines (BL and BLbar).
 The flip-flop is mostly used for alternate 
 storage. As long as the other value is pushed to it, one flip-flop will 
 preserve the value.

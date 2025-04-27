@@ -28,7 +28,7 @@ This involves sweeping through different input voltage values and monitoring the
 ![DC_analysis_butterflycurve](https://github.com/user-attachments/assets/37ae2bd8-e64c-42e5-aa87-b9d41e0575cf)
 The VTC characterstics of one inverter is plotted against the inverse VTC of the other inverter. This results in a "butterfly" shaped curve, with two lobes. Observe line with blue and red strokes.
 <p>The intersections of the butterfly curve with the diagonal green line (representing a stable state) indicate the stable operating points of the cell (where it stores a 0 or 1).</p>
-<br>
+
 <H2> Corner Analysis </H2>
 To determine how a circuit performs differently under various process, voltage, and temperature settings, Cadence uses corner analysis. This aids in spotting possible performance problems and guarantees the circuit's dependability under various operating circumstances.
 <p>In ADE XL, Here I define "corners" for different process variations (e.g., Slow, Fast, Typical).</p> You can specify the variables to be swept or varied in your simulation. I have attached my variable setting you can follow this for reference. https://github.com/Ritikiitk/6-Transistor-SRAM-cell/blob/main/DataviewOfCorner.PNG

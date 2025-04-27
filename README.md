@@ -9,9 +9,7 @@ preserve the value.
 LTspice contains an integrated schematic editor, waveform viewer and advanced features. It is easy to use once you learn some basic commands.
 The book (CMOS SRAM Circuit Design and Parametric Test in Nano-Scaled Technologies by Manoj Sachdeva) is my first choice, and I have used LTSpice to create the schematic diagram for a 6T SRAM cell.
 
-
 ![Image](https://github.com/user-attachments/assets/c83e321c-ef0d-491d-851c-6f37c6840ceb)
-
 <br>
 <H2> Working in Cadence Virtuoso </H2>
 <p>Cadence virtuoso is good EDA tool for us by which we can learn about how to design Integrated Circuit, analysis circuits based their characterstics.
@@ -33,6 +31,8 @@ The VTC characterstics of one inverter is plotted against the inverse VTC of the
 <br>
 <H2> Corner Analysis </H2>
 To determine how a circuit performs differently under various process, voltage, and temperature settings, Cadence uses corner analysis. This aids in spotting possible performance problems and guarantees the circuit's dependability under various operating circumstances.
-<p>In ADE XL, Here I define "corners" for different process variations (e.g., Slow, Fast, Typical).</p> You can specify the variables to be swept or varied in your simulation. I have attached my variable setting you can follow this for reference.
+<p>In ADE XL, Here I define "corners" for different process variations (e.g., Slow, Fast, Typical).</p> You can specify the variables to be swept or varied in your simulation. I have attached my variable setting you can follow this for reference. https://github.com/Ritikiitk/6-Transistor-SRAM-cell/blob/main/DataviewOfCorner.PNG
+
+![cornerAnalysis](https://github.com/user-attachments/assets/1df61517-3991-4cc7-bd92-a1b06fad41ea)
 
 <br>

@@ -8,7 +8,7 @@ preserve the value.
 <H2> Working in LTspice </H2>
 LTspice contains an integrated schematic editor, waveform viewer and advanced features. It is easy to use once you learn some basic commands.
 The book (CMOS SRAM Circuit Design and Parametric Test in Nano-Scaled Technologies by Manoj Sachdeva) is my first choice, and I use LT-Spice to create the schematic diagram for a 6T SRAM cell.
-![6T sram ltspice](https://github.com/user-attachments/assets/0f1af934-0a12-4d96-a0df-e72b54dbd06d)
+![Image](https://github.com/user-attachments/assets/c83e321c-ef0d-491d-851c-6f37c6840ceb)
 <br>
 <H2> Working in Cadence Virtuoso </H2>
 <br>

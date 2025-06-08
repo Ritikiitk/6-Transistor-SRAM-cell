@@ -1,4 +1,4 @@
-# 🧬 6-Transistor SRAM Cell
+# 6-Transistor SRAM Cell
 
 A **6T SRAM cell** contains two cross-coupled CMOS inverters and two NMOS access transistors.  
 Once active, the access transistors allow the cell's internal nodes to communicate with the cell's input/output ports.  
